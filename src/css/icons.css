@@ -1,0 +1,35 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+ 
+  .fa:hover {
+    opacity: 0.9;
+  }
+  
+
+  
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    align-self:center;
+  }
+  
+ 
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    align-self:center;
+  }
+
+  .fa-youtube{
+    background: red;
+    color:white;
+    align-self:center;
+  }
+ 
